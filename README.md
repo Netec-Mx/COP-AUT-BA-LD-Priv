@@ -87,12 +87,16 @@ Este curso proporciona una experiencia práctica para aprender a utilizar Micros
 
   - [Ver capítulo completo](Capitulo05/README.md)
 
-## Flujo de colaboración
+-----
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+## 📬 **Contacto y más información**
+
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
 
 ---
 
-*Material didáctico preparado por Global K, S.A. de C.V.*
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
+
