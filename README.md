@@ -6,10 +6,6 @@
 
 Este curso proporciona una experiencia práctica para aprender a utilizar Microsoft 365 Copilot, sus agentes y capacidades de automatización como apoyo en la ejecución de tareas recurrentes del trabajo diario. Los participantes aprenderán a identificar actividades que realizan periódicamente, descomponerlas en instrucciones claras y determinar cuándo pueden resolverse mediante prompts reutilizables, apoyarse en agentes especializados, convertirse en un agente personalizado o evolucionar hacia un flujo automatizado. A lo largo del curso se explorará una progresión desde la reutilización de instrucciones hasta la automatización de procesos mediante Workflows (Frontier), utilizando lenguaje natural para definir desencadenadores, condiciones y acciones, e incorporando capacidades de Microsoft 365 Copilot cuando la automatización requiera analizar o transformar información.
 
-## Accesos rápidos
-
-- [**Setup Guide del curso**](https://github.com/Netec-Mx/261007-Temario-COP-AUT-BA-LD-Priv/blob/main/SETUP_GUIDE.md)
-- [Laboratorios por capítulo](#lista-de-laboratorios)
 
 ## Estructura
 
