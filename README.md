@@ -80,14 +80,6 @@ Este curso proporciona una experiencia práctica para aprender a utilizar Micros
 
 -----
 
-## Preparación y contenido práctico integrado
-
-| Elemento | Ubicación | Uso |
-| :--- | :--- | :--- |
-| Setup Guide general | [SETUP_GUIDE.md](SETUP_GUIDE.md) | Licencias, disponibilidad, preparación previa, pruebas de acceso y criterios de seguridad. |
-| Cita de Plan My Day, correo de preparación, otros tres correos y dos reuniones didácticas | [Capítulo 2 — README completo](Capitulo02/README.md) | Incluye el evento personal y correo de Plan My Day, tres correos secuenciales, guiones para Facilitator y dos notas manuales etiquetadas. |
-| Doce solicitudes para Analyst | [Capítulo 3 — README completo](Capitulo03/README.md) | Incluye los 12 registros en un bloque de datos copiable, valores de control, prompts y una alternativa de CSV temporal solo si el pegado directo no funciona. |
-
 
 ## 📬 **Contacto y más información**
 
